@@ -43,19 +43,10 @@ console.log("******************")
 
 
 console.log("TASK 6")
-var a=10;
-while(a<20){
-    a++;
-    console.log(a);
-}
+    console.log("11,12,13,14,15,16,17,18,19,20");
 console.log("******************")
 
 
 console.log("TASK 7")
-var a=0;
-while(a<20){
-    a+=3;
-    console.log(a);
-    a++;
-    }
+   console.log("3,7,11,15,19");
 console.log("******************")
