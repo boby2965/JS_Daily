@@ -39,3 +39,23 @@ for(a=10; a>=0; a--){
     console.log(a);
 }
 console.log("******************")
+
+
+
+console.log("TASK 6")
+var a=10;
+while(a<20){
+    a++;
+    console.log(a);
+}
+console.log("******************")
+
+
+console.log("TASK 7")
+var a=0;
+while(a<20){
+    a+=3;
+    console.log(a);
+    a++;
+    }
+console.log("******************")
